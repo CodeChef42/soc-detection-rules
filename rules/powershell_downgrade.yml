@@ -2,7 +2,7 @@ title: Suspicious PowerShell Version Downgrade
 id: abcdefgh-1234-5678-90ab-cdef12345678
 status: experimental
 description: Detects use of PowerShell version downgrade to evade logging and defenses
-author: YourName
+author: CodeChef42
 logsource:
     category: process_creation
     product: windows
